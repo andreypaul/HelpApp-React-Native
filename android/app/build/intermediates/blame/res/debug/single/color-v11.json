@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/Andrey/WebstormProjects/HelpMeApp/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/Andrey/.android/build-cache/331acab6ff0c0b97d914a7289adca16e3f38dadd/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/Andrey/WebstormProjects/HelpMeApp/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/Andrey/.android/build-cache/331acab6ff0c0b97d914a7289adca16e3f38dadd/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

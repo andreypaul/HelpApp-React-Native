@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/Users/Andrey/WebstormProjects/HelpMeApp/android/app/build/intermediates/res/merged/debug/anim/slide_up.xml",
+        "source": "/Users/Andrey/.android/build-cache/9e36c8f9c8f5ebedcd3b7474c1e2074bb82dfd48/output/res/anim/slide_up.xml"
+    },
+    {
+        "merged": "/Users/Andrey/WebstormProjects/HelpMeApp/android/app/build/intermediates/res/merged/debug/anim/fade_in.xml",
+        "source": "/Users/Andrey/.android/build-cache/9e36c8f9c8f5ebedcd3b7474c1e2074bb82dfd48/output/res/anim/fade_in.xml"
+    },
+    {
+        "merged": "/Users/Andrey/WebstormProjects/HelpMeApp/android/app/build/intermediates/res/merged/debug/anim/fade_out.xml",
+        "source": "/Users/Andrey/.android/build-cache/9e36c8f9c8f5ebedcd3b7474c1e2074bb82dfd48/output/res/anim/fade_out.xml"
+    },
+    {
+        "merged": "/Users/Andrey/WebstormProjects/HelpMeApp/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/Andrey/.android/build-cache/331acab6ff0c0b97d914a7289adca16e3f38dadd/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/Andrey/WebstormProjects/HelpMeApp/android/app/build/intermediates/res/merged/debug/anim/slide_down.xml",
+        "source": "/Users/Andrey/.android/build-cache/9e36c8f9c8f5ebedcd3b7474c1e2074bb82dfd48/output/res/anim/slide_down.xml"
+    },
+    {
+        "merged": "/Users/Andrey/WebstormProjects/HelpMeApp/android/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/Andrey/.android/build-cache/331acab6ff0c0b97d914a7289adca16e3f38dadd/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/Andrey/WebstormProjects/HelpMeApp/android/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/Andrey/.android/build-cache/331acab6ff0c0b97d914a7289adca16e3f38dadd/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/Andrey/WebstormProjects/HelpMeApp/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/Andrey/.android/build-cache/331acab6ff0c0b97d914a7289adca16e3f38dadd/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/Andrey/WebstormProjects/HelpMeApp/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_out.xml",
+        "source": "/Users/Andrey/.android/build-cache/9e36c8f9c8f5ebedcd3b7474c1e2074bb82dfd48/output/res/anim/catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "/Users/Andrey/WebstormProjects/HelpMeApp/android/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/Andrey/.android/build-cache/331acab6ff0c0b97d914a7289adca16e3f38dadd/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/Andrey/WebstormProjects/HelpMeApp/android/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/Andrey/.android/build-cache/331acab6ff0c0b97d914a7289adca16e3f38dadd/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/Andrey/WebstormProjects/HelpMeApp/android/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/Andrey/.android/build-cache/331acab6ff0c0b97d914a7289adca16e3f38dadd/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/Andrey/WebstormProjects/HelpMeApp/android/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/Andrey/.android/build-cache/331acab6ff0c0b97d914a7289adca16e3f38dadd/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/Andrey/WebstormProjects/HelpMeApp/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/Andrey/.android/build-cache/331acab6ff0c0b97d914a7289adca16e3f38dadd/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/Andrey/WebstormProjects/HelpMeApp/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/Andrey/.android/build-cache/331acab6ff0c0b97d914a7289adca16e3f38dadd/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/Andrey/WebstormProjects/HelpMeApp/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_in.xml",
+        "source": "/Users/Andrey/.android/build-cache/9e36c8f9c8f5ebedcd3b7474c1e2074bb82dfd48/output/res/anim/catalyst_push_up_in.xml"
+    }
+]

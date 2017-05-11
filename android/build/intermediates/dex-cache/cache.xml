@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/Andrey/.android/build-cache/9e36c8f9c8f5ebedcd3b7474c1e2074bb82dfd48/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f66dccf471b94d5d28c54a6b8ca9e1668b0fb0ce">
+        <dex dex="/Users/Andrey/WebstormProjects/HelpMeApp/android/app/build/intermediates/pre-dexed/debug/classes_cc850a93b6b89f0ed8f080cf399d65a80e0a4f89.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Andrey/.android/build-cache/9e36c8f9c8f5ebedcd3b7474c1e2074bb82dfd48/output/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dcac634e137395f79693ec760f081a86eb2bd84e">
+        <dex dex="/Users/Andrey/WebstormProjects/HelpMeApp/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5_f988708dac89f6d6f99202dcef7009ac75c8cdd8.jar" />
+    </item>
+
+</items>
